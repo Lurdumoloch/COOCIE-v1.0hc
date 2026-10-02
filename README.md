@@ -9,7 +9,14 @@ The if stuff works like this :
 - Before a line gets checked for keyword we check if "in if" is bigger then 0, if it is then we check if current deep is smaller then the "in if " var if yes then we set it to zero.
 
 ## SYNTAX and COMMANDS
+### Variables
+Variables are important so they got the **$** char
+*$x=20* creates a variable x and gives it value 20
+*$x$* is used to get the value stored in var x
 ### Print()
+Print is a command to write smth in the Terminal. 
+*Print(hello)* adds hello to terminal
+*Print(45)* adds 45 to the terminal
 
 
 
@@ -21,4 +28,4 @@ The if stuff works like this :
 ## BUGS and how they got more or less fixed
 This is not a complete list!!!
 ### 1)<img width="1245" height="937" alt="image" src="https://github.com/user-attachments/assets/27904289-58ec-4818-99a8-710fcd655512" />
-The bug is the - number) in code part it is llinked to the scrollweel
+The bug is the - number) in code part it is llinked to the scrollweel, changed formula now it works.(v0.1.4)
