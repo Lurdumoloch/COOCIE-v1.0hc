@@ -10,3 +10,15 @@ The if stuff works like this :
 
 ## SYNTAX and COMMANDS
 ### Print()
+
+
+
+
+
+
+
+
+## BUGS and how they got more or less fixed
+This is not a complete list!!!
+### 1)<img width="1245" height="937" alt="image" src="https://github.com/user-attachments/assets/27904289-58ec-4818-99a8-710fcd655512" />
+The bug is the - number) in code part it is llinked to the scrollweel
