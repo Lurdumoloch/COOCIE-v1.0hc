@@ -17,7 +17,10 @@ Variables are important so they got the **$** char
 Print is a command to write smth in the Terminal. 
 *Print(hello)* adds hello to terminal
 *Print(45)* adds 45 to the terminal
-
+### wait()
+yeah it just waits the amout of seconds u put in there
+*wait(2)* waits to seconds👀
+<img width="548" height="538" alt="20261003-2024-25 8352933" src="https://github.com/user-attachments/assets/ce508c26-64e3-4c3e-8712-a7a556d07eb5" />
 
 
 
