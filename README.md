@@ -21,10 +21,11 @@ Print is a command to write smth in the Terminal.
 yeah it just waits the amout of seconds u put in there
 *wait(2)* waits to seconds👀
 <img width="548" height="538" alt="20261003-2024-25 8352933" src="https://github.com/user-attachments/assets/ce508c26-64e3-4c3e-8712-a7a556d07eb5" />
-
-
-
-
+### repeat(x):
+Repeat is a loop repeating  nxt lines of code that are > in. It repeats it x times.
+*repeat(3):*
+*>print(hello)*
+prints 3 times hello
 
 
 
