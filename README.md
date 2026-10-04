@@ -29,7 +29,12 @@ prints 3 times hello
 
 ## Bibs
 ### Turtle
-
+<img width="1223" height="936" alt="image" src="https://github.com/user-attachments/assets/f7b3f53c-9285-44d0-98a3-07b7276b42ee" />
+small demo (=
+Turtle is another tool for grafic output.
+#### Commands
+##### move(n)
+moves the turtle in current direction by n steps
 
 
 ## BUGS and how they got more or less fixed
