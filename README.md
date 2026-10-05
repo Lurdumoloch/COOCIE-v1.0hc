@@ -32,19 +32,19 @@ prints 3 times hello
 <img width="1223" height="936" alt="image" src="https://github.com/user-attachments/assets/f7b3f53c-9285-44d0-98a3-07b7276b42ee" />
 small demo (=
 Turtle is another tool for grafic output.
-#### Commands 
+### Commands 
 they all need to start with "turtle."
-##### move(n)
+### move(n)
 moves the turtle in current direction by n steps
-#### turn()
+### turn()
 turns the turtle in ↩️ with the given degree.
-#### dir()
+### dir()
 Sets the turtle die to a given value
-#### pos(X;Y)
+### pos(X;Y)
 turtle jumps to the given position.
-#### up
+### up
 pen up
-#### down
+### down
 pen down (it is that easy lol)
 
 
