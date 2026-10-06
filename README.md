@@ -53,3 +53,6 @@ pen down (it is that easy lol)
 This is not a complete list!!!
 ## 1)<img width="1245" height="937" alt="image" src="https://github.com/user-attachments/assets/27904289-58ec-4818-99a8-710fcd655512" />
 The bug is the - number) in code part it is llinked to the scrollweel, changed formula now it works.(v0.1.4)
+
+# Image Gallery:
+<img width="1218" height="917" alt="image" src="https://github.com/user-attachments/assets/d6ec24de-9f86-4bb1-b766-756e8b21a232" />
