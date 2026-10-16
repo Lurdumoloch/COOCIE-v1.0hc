@@ -69,3 +69,6 @@ u can move it with arrow keys
 
 ## grafic pattern
 import turtleඞturtle.pos(100;90)ඞturtle.downඞrepeat(18):ඞ>repeat(36):ඞ>>turtle.move(7)ඞ>>turtle.turn(10)ඞ>turtle.turn(20)ඞtxt(Hello World;70;190;40)ඞ
+
+## fizz buzz
+$x = 1ඞrepeat(20):ඞ>if $x$%15==0:ඞ>>print(fizz buzz)ඞ>else:ඞ>>if $x$%3==0:ඞ>>>print(fizz)ඞ>>else:ඞ>>>if $x$%5==0:ඞ>>>>print(buzz)ඞ>>>else:ඞ>>>>print($x$)ඞ>$x=$x$+1ඞ
