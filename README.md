@@ -61,3 +61,11 @@ The bug is the - number) in code part it is llinked to the scrollweel, changed f
 
 # Image Gallery:
 <img width="1218" height="917" alt="image" src="https://github.com/user-attachments/assets/d6ec24de-9f86-4bb1-b766-756e8b21a232" />
+# Code EXAMPLES 👀
+u can load them with load button and copy paste them there.
+## Moving square 
+$x=125ඞ$y=125ඞprint(start)ඞforever:ඞ>clearඞ>rect($x$;$Y$;50;50;#FFFFFF)ඞ>if press(left arrow):ඞ>>$x=$x$-5ඞ>else:ඞ>>if press(right arrow):ඞ>>>$x=$x$+5ඞ>>else:ඞ>>>if press(up arrow):ඞ>>>>$y=$Y$-5ඞ>>>else:ඞ>>>>if press(down arrow):ඞ>>>>>$y=$Y$+5ඞ>>>>else:ඞ#>>>>>print(empty)
+u can move it with arrow keys
+
+## grafic pattern
+import turtleඞturtle.pos(100;90)ඞturtle.downඞrepeat(18):ඞ>repeat(36):ඞ>>turtle.move(7)ඞ>>turtle.turn(10)ඞ>turtle.turn(20)ඞtxt(Hello World;70;190;40)ඞ
