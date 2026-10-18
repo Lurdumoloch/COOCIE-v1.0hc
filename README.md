@@ -66,7 +66,7 @@ The bug is the - number) in code part it is llinked to the scrollweel, changed f
 u can load them with load button and copy paste them there.
 
 ## Moving square 
-$x=125ඞ$y=125ඞprint(start)ඞforever:ඞ>clearඞ>rect($x$;$Y$;50;50;#FFFFFF)ඞ>if press(left arrow):ඞ>>$x=$x$-5ඞ>else:ඞ>>if press(right arrow):ඞ>>>$x=$x$+5ඞ>>else:ඞ>>>if press(up arrow):ඞ>>>>$y=$Y$-5ඞ>>>else:ඞ>>>>if press(down arrow):ඞ>>>>>$y=$Y$+5ඞ>>>>else:ඞ#>>>>>print(empty)
+$x=125ඞ$y=125ඞprint(start)ඞforever:ඞ>clearඞ>rect($X$;$Y$;50;50;#FFFFFF)ඞ>if press(left arrow):ඞ>>$x=$x$-5ඞ>else:ඞ>>if press(right arrow):ඞ>>>$x=$x$+5ඞ>>else:ඞ>>>if press(up arrow):ඞ>>>>$y=$Y$-5ඞ>>>else:ඞ>>>>if press(down arrow):ඞ>>>>>$y=$Y$+5ඞ>>>>else:ඞ#>>>>>print(empty)
 u can move it with arrow keys
 
 ## grafic pattern
