@@ -78,6 +78,6 @@ u can load them with load button and copy paste them there.
 SO how can u test this wonderful(hmm as a dev of this i need to say this) Project?
 2 Options lol 
 ##1 Use Turbowarp link
-[Turbowaarp version](https://turbowarp.org/1433795410?hqpen) Click see inside to view code
+[Turbowaarp version](https://turbowarp.org/1433795410?hqpen&fps=60) Click see inside to view code
 ##2 Use HTML file
-
+[IDE NEW v0.1.8.12.html file](https://github.com/Lurdumoloch/COOCIE-v1.0hc/blob/main/IDE%20NEW%20v0.1.8.12.html)
