@@ -51,7 +51,7 @@ turtle jumps to the given position.
 ### up
 pen up
 ### down
-pen down (it is that easy lol)
+```pen down``` (it is that easy lol)
 
 
 # BUGS and how they got more or less fixed
@@ -69,7 +69,7 @@ u can load them with load button and copy paste them there.
 ```$x=100ඞ$y=125ඞprint(start)ඞforever:ඞ>clearඞ>rect( $x$ ;$Y$;50;50;#FFFFFF)ඞ>if press(left arrow):ඞ>>$x=$x$-5ඞ>else:ඞ>>if press(right arrow):ඞ>>>$x=$x$+5ඞ>>else:ඞ>>>if press(up arrow):ඞ>>>>$y=$Y$-5ඞ>>>else:ඞ>>>>if press(down arrow):ඞ>>>>>$y=$Y$+5ඞ>>>>else:ඞ#>>>>>print(empty)ඞ# u can move it with arrow keys```
 
 ## grafic pattern
-import turtleඞturtle.pos(100;90)ඞturtle.downඞrepeat(18):ඞ>repeat(36):ඞ>>turtle.move(7)ඞ>>turtle.turn(10)ඞ>turtle.turn(20)ඞtxt(Hello World;70;190;40)ඞ
+```import turtleඞturtle.pos(100;90)ඞturtle.downඞrepeat(18):ඞ>repeat(36):ඞ>>turtle.move(7)ඞ>>turtle.turn(10)ඞ>turtle.turn(20)ඞtxt(Hello World;70;190;40)ඞ```
 
 ## fizz buzz
-$x = 1ඞrepeat(20):ඞ>if $x$%15==0:ඞ>>print(fizz buzz)ඞ>else:ඞ>>if $x$%3==0:ඞ>>>print(fizz)ඞ>>else:ඞ>>>if $x$%5==0:ඞ>>>>print(buzz)ඞ>>>else:ඞ>>>>print($x$)ඞ>$x=$x$+1ඞ
+```$x = 1ඞrepeat(20):ඞ>if $x$%15==0:ඞ>>print(fizz buzz)ඞ>else:ඞ>>if $x$%3==0:ඞ>>>print(fizz)ඞ>>else:ඞ>>>if $x$%5==0:ඞ>>>>print(buzz)ඞ>>>else:ඞ>>>>print($x$)ඞ>$x=$x$+1ඞ```
