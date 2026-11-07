@@ -73,3 +73,11 @@ u can load them with load button and copy paste them there.
 
 ## fizz buzz
 ```$x = 1ඞrepeat(20):ඞ>if $x$%15==0:ඞ>>print(fizz buzz)ඞ>else:ඞ>>if $x$%3==0:ඞ>>>print(fizz)ඞ>>else:ඞ>>>if $x$%5==0:ඞ>>>>print(buzz)ඞ>>>else:ඞ>>>>print($x$)ඞ>$x=$x$+1ඞ```
+
+#Test it
+SO how can u test this wonderful(hmm as a dev of this i need to say this) Project?
+2 Options lol 
+##1 Use Turbowarp link
+[Turbowaarp version](https://turbowarp.org/1433795410?hqpen) Click see inside to view code
+##2 Use HTML file
+
