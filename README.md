@@ -1,11 +1,11 @@
 # COOCIE-v1.0hc
-A small and basic Programming Language with its own IDE. It has a grafical and a terminal output and was coded in Turbowarp(faster scratch). It has basic function like if else, variables , render a few forms AND more.
+A small and basic Programming Language with its own IDE. It has a graphical and a terminal output and was coded in Turbowarp(faster scratch). It has basic features like if else, variables , rendering of afew shapes AND more.
 
 # How it works:
 Hmm good question i guess, let me try to explain.
-So it works while runtime and uses the line and trys to find keywords in it. If it finds a Keyword or Keychar it starts to do the command thats cnnected to the keyword... 
+So it works while runtime and uses the line and trys to find keywords in it. If it finds a Keyword or Keychar it starts to do the command thats connected to the keyword... 
 The if stuff works like this : 
-- there is one var named "in if" this variable is at standard deep 0, if the code gets now to the if and the condition is true it sets "in if" to current deep +1.
+- there is one var named "in if" this variable is at standard depth 0, if the code gets now to the if and the condition is true it sets "in if" to current deep +1.
 - Before a line gets checked for keyword we check if "in if" is bigger then 0, if it is then we check if current deep is smaller then the "in if " var if yes then we set it to zero.
 
 # SYNTAX and COMMANDS
@@ -31,7 +31,7 @@ prints 3 times hello
 ## Turtle
 <img width="1223" height="936" alt="image" src="https://github.com/user-attachments/assets/f7b3f53c-9285-44d0-98a3-07b7276b42ee" />
 small demo (=
-Turtle is another tool for grafic output.
+Turtle is another tool for graphic output.
 
 ### Commands 
 they all need to start with "turtle."
@@ -43,7 +43,10 @@ moves the turtle in current direction by n steps
 turns the turtle in ↩️ with the given degree.
 
 ### dir()
-Sets the turtle die to a given value
+Sets the turtle direction to a given value
+   0
+-90 90
+  180
 
 ### pos(X;Y)
 turtle jumps to the given position.
@@ -74,10 +77,10 @@ u can load them with load button and copy paste them there.
 ## fizz buzz
 ```$x = 1ඞrepeat(20):ඞ>if $x$%15==0:ඞ>>print(fizz buzz)ඞ>else:ඞ>>if $x$%3==0:ඞ>>>print(fizz)ඞ>>else:ඞ>>>if $x$%5==0:ඞ>>>>print(buzz)ඞ>>>else:ඞ>>>>print($x$)ඞ>$x=$x$+1ඞ```
 
-#Test it
+# Test it
 SO how can u test this wonderful(hmm as a dev of this i need to say this) Project?
 2 Options lol 
-##1 Use Turbowarp link
+## 1 Use Turbowarp link
 [Turbowaarp version](https://turbowarp.org/1433795410?hqpen&fps=60) Click see inside to view code
-##2 Use HTML file
+## 2 Use HTML file
 [IDE NEW v0.1.8.12.html file](https://github.com/Lurdumoloch/COOCIE-v1.0hc/blob/main/IDE%20NEW%20v0.1.8.12.html)
